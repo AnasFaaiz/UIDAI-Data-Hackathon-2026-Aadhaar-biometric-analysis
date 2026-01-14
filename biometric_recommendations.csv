@@ -1,0 +1,5 @@
+Action ,Area,Insight,Recommended Action
+Immediate,Service Planning,District-level concentration of biometric demand,Align staffing and center capacity with observed demand
+Short-term,Temporal Demand,Periodic spikes in biometric activity,Deploy pop-up locations during high-demand periods
+Short-term,Age-wise Demand,Variation in child vs adult biometric activity,Introduce age-aware service scheduling
+Long-term,Monitoring,Demand patterns evolve over time,Refresh demand analysis periodically
